@@ -45,6 +45,7 @@ This is a full-featured eCommerce web application developed using **Java (Spring
 ## 📂 Project Structure
 
 ecommerce-app/
+
 │
 ├── backend/
 │ ├── src/main/java/com/example/ecommerce/
